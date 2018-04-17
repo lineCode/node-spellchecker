@@ -1,0 +1,3 @@
+# Ignore all differences in line endings
+* eol=crlf
+.gyp text eol=lf
